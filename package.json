@@ -1,0 +1,26 @@
+{
+  "name": "burger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rdougherty31/burger.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rdougherty31/burger/issues"
+  },
+  "homepage": "https://github.com/rdougherty31/burger#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.2",
+    "mysql": "^2.17.1",
+    "mysql2": "^1.6.5"
+  }
+}
